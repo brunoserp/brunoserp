@@ -1,7 +1,7 @@
 ### Hi there 👋, it's Bruno Serpellone
 Working as System Analyst at Deloitte.<br>
 Developing my skills on SQL, Python and Power BI. <br>
-My repository is divided into data analysis and automatizations.
+My repository is divided into data analysis and automatations.
 
 Skills: Python | SQL | Power BI
 e-mail: serpelloneb.2@gmail.com
