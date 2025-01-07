@@ -1,6 +1,6 @@
-### Hi there 👋, it's Bruno Serpellone
-Working as Data Analyst at Deloitte Tax Consultancy.<br>
-Developing my skills on SQL, Python and Power BI. <br>
+### 👋 sou o Bruno
+Atuo como Analista de Dados na Deloitte.<br>
+Estou desenvolvendo minhas habilidades no Python, SQL, Power BI, Google Cloud (BigQuery, Looker) e machine learning.<br>
 
 e-mail: serpelloneb.2@gmail.com
 
@@ -8,7 +8,7 @@ e-mail: serpelloneb.2@gmail.com
 
 ![Brunoserp's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoserp&show_icons=true&theme=cobalt)
 
-## Skills
+## Habilidades
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
