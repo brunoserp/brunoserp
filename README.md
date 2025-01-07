@@ -62,3 +62,40 @@ e-mail: serpelloneb.2@gmail.com
 
 - [Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
+
+# Análises exploratórias
+- [Olimpíadas]([https://github.com/brunoserp/Python/tree/main/Google%20Sheets](https://github.com/brunoserp/SQL/tree/main/Historical%20Olympic%20Games%20Data))
+
+- Descrição: Conhecer a história olímpica, atletas e nações mais vencedores, modalidades, histórico do Brasil, entre outras informações interessantes.
+
+- Objetivo: SQLAlchemy (biblioteca do Python) e Matplotlib para fazer análise exploratória de informações da Olimpíada.
+
+- Resultados:
+<ul>
+  <li>A edição de Paris é a 33ª edição da Olimpíada de Verão</li>
+  <li>O atletismo foi o esporte com mais provas em Tóquio 2020</li>
+  <li>Londres é a cidade que mais sediou Olimpíadas: 1908, 1944, 1948 e 2012</li>
+  <li>A edição mais longa foi em Londres (1900), que durou 6 meses. Após 1948, as Olimpíadas têm duração média de 17 dias, com pouca variância</li>
+  <li>Na segunda edição, Paris 1900, alguns esportes que hoje não são mais olímpicos foram disputados:
+    <ul>
+      <li>Corrida de carros e barcos</li>
+      <li>Balonismo</li>
+      <li>Combate a incêndios</li>
+      <li>Pesca</li>
+      <li>Salvamento de vidas</li>
+      <li>Exercício militar</li>
+      <li>Cabo de guerra</li>
+    </ul>
+  </li>
+  <li>O EUA é o país com mais ouros na história, e também o país líder no quadro geral em 18 edições. O maior destaque do EUA foi em 1904, onde ganharam 80 dos 97 ouros da edição (82%). O esporte que mais deu medalhas aos EUA é o atletismo, com aproximadamente 30% de todas as medalhas.</li>
+  <li>O segundo país com mais ouros é a URSS, que terminou 6 edições olímpicas como o líder do quadro de medalhas. O esporte que mais deu medalhas à URSS foi a ginástica.</li>
+  <li>Michael Phelps (natação) foi o maior campeão olímpico, com 23 ouros. Ele disputou 30 provas, das quais ficou no pódio em 28 (93%). Também, ele é o atleta com mais ouros numa única edição: 8 em Pequim 2008.</li>
+  <li>O medalhista olímpico mais jovem foi o suíço Paul Piaget, que ganhou um bronze no remo em 1920.</li>
+  <li>As maiores campeãs olímpicas de esportes coletivos, em ambos os gêneros, são duas estadunidenses do basquete, com 5 ouros.</li>
+  <li>Do Brasil, os esportes com mais medalhas são judô, atletismo e vela, respectivamente. Robert Scheidt e Torben Grael, ambos da vela, são os maiores medalhistas do brasil, com 5 medalhas cada. Os maiores campeões brasileiros têm 2 medalhas, Fabi, Fabiana, Sheilla, Giovane e Serginho são alguns deles.</li>
+</ul>
+- [Projeto Completo]([https://github.com/brunoserp/Python/tree/main/Google%20Sheets](https://github.com/brunoserp/SQL/tree/main/Historical%20Olympic%20Games%20Data))
+
+
+
+
