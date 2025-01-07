@@ -34,11 +34,13 @@ e-mail: serpelloneb.2@gmail.com
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Imagem Centralizada</title>
 </head>
 <body style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/f1aaa3c1-9eb4-4342-a6ee-5904f2dbdd6f" alt="Descrição da imagem" style="max-width: 90%; height: auto;">
 </body>
 </html>
+
 
 
 - [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
