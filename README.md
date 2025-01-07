@@ -60,5 +60,5 @@ e-mail: serpelloneb.2@gmail.com
 
 - Resultado: dados incluídos ao executar o programa, economizando tempo e diminuindo erros.
 
-[Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
+- [Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
