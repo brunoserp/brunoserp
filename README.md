@@ -15,3 +15,16 @@ e-mail: serpelloneb.2@gmail.com
   <img align="center" alt="html5" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
+
+## PROJETOS
+
+### Machine learning
+[Aprovação de empréstimos](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
+
+- Descrição: Criei um modelo de previsão de concessão de crédito a partir de dados históricos do resultado da concessão e característica dos solicitantes.
+
+- O banco aprova cada empréstimo manualmente, e a automação no processo de aprovação conforme características dos solicitantes seria útil para melhora da operação e aumento da satisfação do cliente, que teria o resultado mais rápido.
+
+- Objetivo: gerar um modelo de classificação de empréstimos de modo a selecionar as variáveis que maximizem o desempenho do modelo.
+
+- Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features.
