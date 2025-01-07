@@ -48,3 +48,18 @@ e-mail: serpelloneb.2@gmail.com
 - Resultado: após a inclusão do script em python, o dashboard com todas as planilhas existentes na pasta definida no script apenas clicando em "Atualizar", conforme o [link](https://youtu.be/J3HarLFo7Aw)
 
 - [Projeto completo](https://github.com/brunoserp/Python-e-PowerBI/tree/main)
+
+
+## Inclusão de novos dados mensais em planilha com dados históricos no Google Sheets com Python
+[Inclusão de dados no Google Sheets com Python](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
+
+- Descrição: Python para concatenar automaticamente novas informações mensais Google Sheets.
+
+- Problema de negócio: inclusão de novos dados mensais mecanicamente gasta muito tempo e está suscetível a erros.
+
+- Objetivo: automatizar o processo de inclusão de novos dados mensais em planilha com dados históricos no Google Sheets com Python.
+
+- Resultado: dados incluídos ao executar o programa, economizando tempo e diminuindo erros.
+
+[Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
+
