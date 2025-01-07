@@ -22,29 +22,21 @@ e-mail: serpelloneb.2@gmail.com
 [Aprovação de empréstimos](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
 - Descrição: criei um modelo de previsão de concessão de crédito a partir de dados históricos do resultado da concessão e característica dos solicitantes.
-
 - O banco aprova cada empréstimo manualmente, e a automação no processo de aprovação conforme características dos solicitantes seria útil para melhora da operação e aumento da satisfação dos clientes.
-
 - Objetivo: gerar um modelo de classificação de empréstimos de modo a selecionar as variáveis que maximizem o desempenho do modelo.
-
+- Bibliotecas usadas: Pandas, Matplotlib, Sklearn.
 - Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features. O modelo com apenas uma variável também teve melhor desempenho em outras métricas, como precisão, f1 e recall.
-
 - O modelo com uma variável teve esses parâmetros: <br>
 ![image](https://github.com/user-attachments/assets/ce89c9d3-ee9d-4625-b418-4dd1acd9e82a)
-
 - [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
-
-
 
 ## Otimizações de processos
 [Atualização de dashboard do Power BI com Python](https://github.com/brunoserp/Python-e-PowerBI/tree/main)
 
 - Descrição: Python para concatenar automaticamente novas informações mensais no dashboard do Power BI.
-
 - Problema de negócio: inclusão de novos dados mensais mecanicamente gasta muito tempo e está suscetível a erros.
-
 - Objetivo: melhorar o processo de alimentação de dashboard do Power BI com inclusão de novos dados mensais.
-
+- Bibliotecas usadas: OS, Pandas e Polars.
 - Resultado: após a inclusão do script em python, o dashboard com todas as planilhas existentes na pasta definida no script apenas clicando em "Atualizar", conforme o [link](https://youtu.be/J3HarLFo7Aw)
 
 - [Projeto completo](https://github.com/brunoserp/Python-e-PowerBI/tree/main)
@@ -54,20 +46,17 @@ e-mail: serpelloneb.2@gmail.com
 [Inclusão de dados no Google Sheets com Python](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
 - Descrição: Python para concatenar automaticamente novas informações mensais Google Sheets.
-
 - Problema de negócio: inclusão de novos dados mensais mecanicamente gasta muito tempo e está suscetível a erros.
-
 - Objetivo: automatizar o processo de inclusão de novos dados mensais em planilha com dados históricos no Google Sheets com Python.
-
+- Bibliotecas usadas: Pandas, Gspread, Google.OAuth
 - Resultado: dados incluídos ao executar o programa, economizando tempo e diminuindo erros.
-
 - [Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
 # Análises exploratórias
 
 [Informações históricas das Olimpíadas](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 - Descrição: Conhecer a história olímpica, atletas e nações mais vencedores, modalidades, histórico do Brasil, entre outras informações interessantes.
-- Bibliotecas usadas: OS, Pandas, SQLalchemy, Matplotlib
+- Bibliotecas usadas: OS, Pandas, SQLalchemy, Matplotlib.
 - Resultados:
   - A edição de Paris é a 33ª edição da Olimpíada de Verão
   - O atletismo foi o esporte com mais provas em Tóquio 2020
