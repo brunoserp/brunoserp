@@ -21,10 +21,15 @@ e-mail: serpelloneb.2@gmail.com
 ### Machine learning
 [Aprovação de empréstimos](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
-- Descrição: Criei um modelo de previsão de concessão de crédito a partir de dados históricos do resultado da concessão e característica dos solicitantes.
+- Descrição: criei um modelo de previsão de concessão de crédito a partir de dados históricos do resultado da concessão e característica dos solicitantes.
 
-- O banco aprova cada empréstimo manualmente, e a automação no processo de aprovação conforme características dos solicitantes seria útil para melhora da operação e aumento da satisfação do cliente, que teria o resultado mais rápido.
+- O banco aprova cada empréstimo manualmente, e a automação no processo de aprovação conforme características dos solicitantes seria útil para melhora da operação e aumento da satisfação dos clientes.
 
 - Objetivo: gerar um modelo de classificação de empréstimos de modo a selecionar as variáveis que maximizem o desempenho do modelo.
 
 - Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features.
+
+![image](https://github.com/user-attachments/assets/f1aaa3c1-9eb4-4342-a6ee-5904f2dbdd6f)
+
+
+
