@@ -35,3 +35,12 @@ e-mail: serpelloneb.2@gmail.com
 - [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
 
+## Script em Python no Power BI
+
+- Descrição: Python para concatenar automaticamente novas informações mensais no dashboard do Power BI.
+
+- Problema de negócio: inclusão de novos dados mensais mecanicamente gasta muito tempo e está suscetível a erros.
+
+- Objetivo: melhorar o processo de alimentação de dashboard do Power BI com inclusão de novos dados mensais.
+
+- Resultado: após a inclusão do script em python, o dashboard com todas as planilhas existentes na pasta definida no script apenas clicando em "Atualizar", conforme o [link](https://youtu.be/J3HarLFo7Aw)
