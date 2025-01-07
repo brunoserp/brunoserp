@@ -27,35 +27,10 @@ e-mail: serpelloneb.2@gmail.com
 
 - Objetivo: gerar um modelo de classificação de empréstimos de modo a selecionar as variáveis que maximizem o desempenho do modelo.
 
-- Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features. O modelo com apenas uma variável também teve melhor desempenho em outras métricas, como precisão, f1 e recall. O modelo com uma variável teve esses parâmetros:
+- Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features. O modelo com apenas uma variável também teve melhor desempenho em outras métricas, como precisão, f1 e recall.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    img {
-      max-width: 90%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-  <img src="https://github.com/user-attachments/assets/f1aaa3c1-9eb4-4342-a6ee-5904f2dbdd6f" alt="Descrição da imagem">
-</body>
-</html>
-
-
-
-
+- O modelo com uma variável teve esses parâmetros:
+![image](https://github.com/user-attachments/assets/ce89c9d3-ee9d-4625-b418-4dd1acd9e82a)
 
 - [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
