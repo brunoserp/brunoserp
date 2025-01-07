@@ -67,7 +67,7 @@ e-mail: serpelloneb.2@gmail.com
 
 [Informações históricas das Olimpíadas](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 - Descrição: Conhecer a história olímpica, atletas e nações mais vencedores, modalidades, histórico do Brasil, entre outras informações interessantes.
-- Objetivo: SQLAlchemy (biblioteca do Python) e Matplotlib para fazer análise exploratória de informações da Olimpíada.
+- Bibliotecas usadas: OS, Pandas, SQLalchemy, Matplotlib
 - Resultados:
   - A edição de Paris é a 33ª edição da Olimpíada de Verão
   - O atletismo foi o esporte com mais provas em Tóquio 2020
