@@ -49,6 +49,7 @@ e-mail: serpelloneb.2@gmail.com
 
 - [Projeto completo](https://github.com/brunoserp/Python-e-PowerBI/tree/main)
 
+<br> 
 
 [Inclusão de dados no Google Sheets com Python](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
