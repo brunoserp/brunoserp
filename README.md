@@ -18,7 +18,7 @@ e-mail: serpelloneb.2@gmail.com
 
 ## PROJETOS
 
-### Machine learning
+## Machine learning
 [Aprovação de empréstimos](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
 - Descrição: criei um modelo de previsão de concessão de crédito a partir de dados históricos do resultado da concessão e característica dos solicitantes.
@@ -36,7 +36,7 @@ e-mail: serpelloneb.2@gmail.com
 
 
 
-### Otimizações de processos
+## Otimizações de processos
 [Atualização de dashboard do Power BI com Python](https://github.com/brunoserp/Python-e-PowerBI/tree/main)
 
 - Descrição: Python para concatenar automaticamente novas informações mensais no dashboard do Power BI.
