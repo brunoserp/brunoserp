@@ -62,14 +62,6 @@ e-mail: serpelloneb.2@gmail.com
 
 - [Projeto Completo](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
 
-
-# Análises exploratórias
-- [Olimpíadas]([https://github.com/brunoserp/Python/tree/main/Google%20Sheets](https://github.com/brunoserp/SQL/tree/main/Historical%20Olympic%20Games%20Data))
-
-- Descrição: Conhecer a história olímpica, atletas e nações mais vencedores, modalidades, histórico do Brasil, entre outras informações interessantes.
-
-- Objetivo: SQLAlchemy (biblioteca do Python) e Matplotlib para fazer análise exploratória de informações da Olimpíada.
-
 # Análises exploratórias
 
 [Informações históricas das Olimpíadas](https://github.com/brunoserp/Python/tree/main/Google%20Sheets)
