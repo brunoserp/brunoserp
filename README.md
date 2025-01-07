@@ -1,6 +1,6 @@
-### 👋 sou o Bruno
+### 👋 Olá! Eu sou o Bruno
 Atuo como Analista de Dados na Deloitte.<br>
-Estou desenvolvendo minhas habilidades no Python, SQL, Power BI, Google Cloud (BigQuery, Looker) e machine learning.<br>
+Estou em busca de me desenvolver em dados usando Python, SQL, Power BI, Google Cloud (BigQuery, Looker) e machine learning.<br>
 
 e-mail: serpelloneb.2@gmail.com
 
