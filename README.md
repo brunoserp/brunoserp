@@ -29,7 +29,7 @@ e-mail: serpelloneb.2@gmail.com
 
 - Resultados: testei o modelo com todas as característica (features), obtendo 0,65 de accurácia. Uma vez que a característica de histórico de crédito foi a única com uma correlação relevante (fora do intervalo de -0.1 a +0.1), criei uma outra árvore de decisão apenas com essa feature, e o modelo obteve 0,8 de acurácia, se mostrando superior ao modelo com todas as features. O modelo com apenas uma variável também teve melhor desempenho em outras métricas, como precisão, f1 e recall.
 
-- O modelo com uma variável teve esses parâmetros:
+- O modelo com uma variável teve esses parâmetros: <br>
 ![image](https://github.com/user-attachments/assets/ce89c9d3-ee9d-4625-b418-4dd1acd9e82a)
 
 - [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
