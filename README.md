@@ -31,5 +31,6 @@ e-mail: serpelloneb.2@gmail.com
 
 ![image](https://github.com/user-attachments/assets/f1aaa3c1-9eb4-4342-a6ee-5904f2dbdd6f)
 
+- [Projeto completo](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
 
