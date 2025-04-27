@@ -18,6 +18,13 @@ e-mail: serpelloneb.2@gmail.com
 
 ## PROJETOS
 
+## Automações fiscais
+[Extração de registros do SPED](https://github.com/brunoserp/Automations/blob/main/SPED%20txt%20extractor.py)
+
+- Ao informar um registro pai e outro filho e uma pasta com txt do SPED fiscal, o programa extrai o cruzamento desses 2 registros. Primeiro, as colunas do registro pai, e depois, do filho. Vale lembrar que os valores do registro pai são repetidos para acompanhar as linhas do registro filho. O programa inclui o cabeçalho de ambos os registros a partir de um Excel.
+- O resultado é um Excel, se o cruzamento tiver até 50k linhas, ou CSV para os demais casos.
+
+
 ## Machine learning
 [Aprovação de empréstimos](https://github.com/brunoserp/Machine-Learning/blob/main/aprovacao_emprestimos.ipynb)
 
